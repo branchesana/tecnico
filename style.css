@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+div {
+    display: block;
+    border: chartreuse;
+    margin: 200px;
+    background-color: crimson;
+    padding: 100px;
+}
